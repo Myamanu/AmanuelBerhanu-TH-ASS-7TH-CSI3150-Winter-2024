@@ -1,0 +1,28 @@
+h3{
+   align-items: center;
+   margin: 2% 39%;
+   font-size: 27px;
+   color: rgb(35, 206, 97);
+}
+h5{
+   align-items: center;
+   margin-left:  2%;
+   font-size: 20px;
+   color: rgb(113, 113, 197);
+}
+label{
+    font-size: 16px;
+    margin-left: 2%;
+    color: rgb(66, 32, 98);
+}
+input{
+    width:35%;
+    font-size: 16px;
+    outline-offset: 1.5%;
+
+}
+.submit section{
+    font-size: 30px;
+    color: #214658;
+
+}
